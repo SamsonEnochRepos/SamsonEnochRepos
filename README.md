@@ -41,7 +41,7 @@ I'm always open to interesting conversations, collaborations, or just talking ab
   <a href="mailto:samson6906@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="36" alt="Gmail" /></a>&nbsp;
   <a href="https://linkedin.com/in/samsonenochpj"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="36" alt="LinkedIn" /></a>&nbsp;
   <a href="https://dev.to/"><img src="https://skillicons.dev/icons?i=devto&theme=dark" height="36" alt="DEV" /></a>&nbsp;
-  <a href="https://ko-fi.com/I2I31ZHCUW"><img src="https://ko-fi.com/img/githubbutton_sm.svg" height="36" alt="Ko-fi" /></a>
+  <a href='https://ko-fi.com/I2I31ZHCUW' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
 
 ---
